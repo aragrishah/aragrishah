@@ -43,10 +43,9 @@ My work focuses on:
 ---
 
 # 📌 Featured Projects
-
-## 💰 DoomSpend — AI-Powered Expense Intelligence Dashboard
-## 🧠 FairHire XAI — Explainable Hiring System
-## 📈 Japanese Venture Capital Firms Analysis
+-  💰 DoomSpend — AI-Powered Expense Intelligence Dashboard
+- 🧠 FairHire XAI — Explainable Hiring System
+- 📈 Japanese Venture Capital Firms Analysis
 
 ---
 
