@@ -15,30 +15,12 @@ My work focuses on:
 
 # 🚀 Tech Stack
 
-### 👨‍💻 Languages & Querying
-- Python
-- SQL
-
-### 📊 Data Analysis & Visualization
-- Pandas
-- NumPy
-- Matplotlib
-- Plotly
-- Power BI
-- Tableau
-
-### 🤖 Machine Learning & AI
-- Scikit-learn
-- NLP
-- Feature Engineering
-- Explainable AI (SHAP)
-
-### 🛠️ Tools & Platforms
-- GitHub
-- Jupyter Notebook
-- Streamlit
-- Excel
-- Google Sheets
+| Category | Technologies |
+|----------|--------------|
+| 👨‍💻 Languages & Querying | Python, SQL |
+| 📊 Data Analysis & Visualization | Pandas, NumPy, Matplotlib, Plotly, Power BI, Tableau |
+| 🤖 Machine Learning & AI | Scikit-learn, NLP, Feature Engineering, Explainable AI (SHAP) |
+| 🛠️ Tools & Platforms | GitHub, Jupyter Notebook, Streamlit, Excel, Google Sheets |
 
 ---
 
