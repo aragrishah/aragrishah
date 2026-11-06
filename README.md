@@ -24,16 +24,9 @@ My work focuses on:
 
 ---
 
-# 📌 Featured Projects
--  💰 DoomSpend — AI-Powered Expense Intelligence Dashboard
-- 🧠 FairHire XAI — Explainable Hiring System
-- 📈 Japanese Venture Capital Firms Analysis
-
----
-
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/riya-shah-80b334234/
+- 💼 LinkedIn: https://www.linkedin.com/in/riya-shah-0405/
 - 📧 Email: shahriya0999@gmail.com
 
 ---
