@@ -26,7 +26,7 @@ My work focuses on:
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/riya-shah-0405/
+- 💼 LinkedIn: [https://www.linkedin.com/in/riya-shah-0405/](https://www.linkedin.com/in/riyashah0405/)
 - 📧 Email: shahriya0999@gmail.com
 
 ---
